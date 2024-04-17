@@ -1,6 +1,6 @@
 {
-    "name": "powerstack/demo_content",
-    "description": "Basic setup for the Headless API",
+    "name": "powerstack/page_builder_base",
+    "description": "Basic setup for the Power Stack paragraphs",
     "version": "0.0.1",
     "keywords": [
         "Drupal"
